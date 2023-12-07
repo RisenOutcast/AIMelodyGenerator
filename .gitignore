@@ -1,3 +1,11 @@
+# Project files
+midi/*
+training_checkpoints/
+*.midi
+*.mid
+*.flp
+*.mp3
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
