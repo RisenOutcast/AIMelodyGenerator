@@ -5,6 +5,7 @@ training_checkpoints/
 *.mid
 *.flp
 *.mp3
+*.sfk
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
