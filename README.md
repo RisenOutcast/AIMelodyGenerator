@@ -3,7 +3,9 @@ Program for generating melodies using AI
 
 ### Prerequisite
 Have Python (version >3.10) installed.
+
 Create a folder called `midi` in the main directory.
+
 Extract your training data to the `midi`-folder, I used the MAESTRO dataset from TensorFlow: [maestro-v3.0.0-midi.zip](https://magenta.tensorflow.org/datasets/maestro#download)
 
 
